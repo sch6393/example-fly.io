@@ -1,0 +1,12 @@
+{
+  "name": "example-fly-io",
+  "version": "1.0.0",
+  "description": "Simple Node.js web server deployed on fly.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
